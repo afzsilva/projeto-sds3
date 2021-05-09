@@ -20,7 +20,7 @@ Mais uma vez sou muito grato ao pessoal da DevSuperior por pela iniciativa, que 
 
 
 
-![image-20210507185539808](/home/afzs/.config/Typora/typora-user-images/image-20210507185539808.png)
+![home](/assets/home.png)
 
 
 
@@ -28,7 +28,7 @@ Mais uma vez sou muito grato ao pessoal da DevSuperior por pela iniciativa, que 
 
 ### Dashboard
 
-![image-20210504095716558](/home/afzs/.config/Typora/typora-user-images/image-20210504095716558.png)
+![dashboard](/assets/dashboard.png)
 
 
 
